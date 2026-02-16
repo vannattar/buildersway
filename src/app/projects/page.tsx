@@ -6,7 +6,7 @@ import { PROJECTS } from "@/lib/constants";
 export const metadata: Metadata = {
   title: "Projects",
   description:
-    "Software built with intention — tools for managing complexity, communicating with care, and becoming.",
+    "Software built with intention. Tools for managing complexity, communicating with care, and becoming.",
 };
 
 export default function ProjectsPage() {
@@ -20,7 +20,7 @@ export default function ProjectsPage() {
           Building tools for becoming
         </h1>
         <p className="mt-6 max-w-2xl text-lg leading-relaxed text-muted-foreground">
-          These applications are expressions of The Builder&apos;s Way — software
+          These applications are expressions of The Builder&apos;s Way. Software
           that helps people focus on what matters, communicate with care, and
           move forward with intention.
         </p>

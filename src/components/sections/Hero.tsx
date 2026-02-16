@@ -8,7 +8,7 @@ export function Hero() {
     <section className="relative min-h-[90vh] flex items-center overflow-hidden">
       {/* Animated watercolor compass background */}
       <div className="absolute inset-0 overflow-hidden">
-        {/* Center void — the infinite possibility */}
+        {/* Center void: the infinite possibility */}
         <div className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2">
           {/* Rotating outer ring */}
           <div
@@ -65,7 +65,7 @@ export function Hero() {
 
         <FadeIn delay={300}>
           <p className="mt-8 max-w-xl text-lg leading-relaxed text-muted-foreground md:text-xl">
-            The art of building, rebuilding, and becoming — through work,
+            The art of building, rebuilding, and becoming. Through work,
             reflection, and the space where change begins.
           </p>
         </FadeIn>

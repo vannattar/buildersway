@@ -6,7 +6,7 @@ import { SITE } from "@/lib/constants";
 export const metadata: Metadata = {
   title: "About",
   description:
-    "The philosophy behind The Builder's Way — nothing is, everything is becoming.",
+    "The philosophy behind The Builder's Way. Nothing is, everything is becoming.",
 };
 
 export default function AboutPage() {
@@ -30,7 +30,7 @@ export default function AboutPage() {
           <p>
             Everything is a work in progress. You. Your life. Your family. Your
             career. Your success. Your personal growth as a human being. It&apos;s
-            all becoming something — always.
+            all becoming something. Always.
           </p>
         </FadeIn>
 
@@ -38,7 +38,7 @@ export default function AboutPage() {
           <p>
             There&apos;s no such thing as &quot;is&quot; with a period at the end.
             If thinking about something as it <em>is</em> suggests a pause, a
-            plateau, a ledge, some kind of stopping point — that&apos;s an
+            plateau, a ledge, some kind of stopping point? That&apos;s an
             illusion. There are no logical breakpoints in a life. Only movement.
           </p>
         </FadeIn>
@@ -50,8 +50,8 @@ export default function AboutPage() {
           <p className="mt-4">
             You can trace lines from the dots made in the past and create a
             trajectory into the future. If you don&apos;t like where that line is
-            heading, you can change it. You simply make different choices —
-            small, tiny, consistent choices.
+            heading, you can change it. You simply make different choices.
+            Small, tiny, consistent choices.
           </p>
           <p className="mt-4">
             Some choices are small. Some of those small choices lead to bigger
@@ -84,7 +84,7 @@ export default function AboutPage() {
             become. That message is a message of hope, of possibility.
           </p>
           <p className="mt-4">
-            The only thing you can do about tomorrow — today, in this moment —
+            The only thing you can do about tomorrow, today, in this moment,
             is plant seeds. You have no guarantee they&apos;ll grow. You
             don&apos;t know how they&apos;ll grow. Often you don&apos;t even
             recognize what the seed will become. But whatever you plant today
@@ -98,7 +98,7 @@ export default function AboutPage() {
           </h2>
           <p className="mt-4">
             This way of seeing invites you to loosen the stories you&apos;ve
-            built around yourself — the limitations, the strong preferences, the
+            built around yourself. The limitations, the strong preferences, the
             things you&apos;ve decided are essential parts of who you are. Those
             stories can make you less resilient, less flexible, less agile, and
             ultimately less happy.
@@ -123,13 +123,13 @@ export default function AboutPage() {
             <p>
               I build software, write about growth and leadership, and try to
               live by the philosophy I share here. The Builder&apos;s Way started
-              as a Substack — a place to explore the ideas of building,
+              as a Substack, a place to explore the ideas of building,
               rebuilding, and becoming.
             </p>
             <p>
               It grew into something bigger: a framework for how I approach work,
               creativity, and life. The apps I build, the words I write, and the
-              way I show up every day are all expressions of the same idea —
+              way I show up every day are all expressions of the same idea:
               that nothing is fixed, and everything is possible.
             </p>
           </div>

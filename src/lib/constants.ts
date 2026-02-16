@@ -2,7 +2,7 @@ export const SITE = {
   name: "The Builder's Way",
   tagline: "The art of building, rebuilding, and becoming.",
   description:
-    "The art of building, rebuilding, and becoming — through work, reflection, and the space where change begins.",
+    "The art of building, rebuilding, and becoming. Through work, reflection, and the space where change begins.",
   url: "https://buildersway.io",
   email: "richard@buildersway.io",
   author: "Richard Van Natta",
@@ -27,8 +27,8 @@ export const SOCIAL_LINKS = [
   },
   {
     label: "Substack",
-    href: "https://substack.com/@richardvannatta",
-    icon: "mail" as const,
+    href: "https://richardvannatta.substack.com",
+    icon: "pen-line" as const,
   },
 ] as const;
 
@@ -37,7 +37,7 @@ export const PROJECTS = [
     name: "Voice Hats",
     tagline: "Your life, strategically managed.",
     description:
-      "A voice-driven life management app that goes far beyond a to-do list. Define the roles you play in life — parent, creator, leader — and Voice Hats surfaces what's truly strategic, fades the noise, and even researches tasks for you.",
+      "A voice-driven life management app that goes far beyond a to-do list. Define the roles you play in life: parent, creator, leader. Voice Hats surfaces what's truly strategic, fades the noise, and even researches tasks for you.",
     features: [
       "Voice-driven task management",
       "Role-based life organization",
@@ -54,7 +54,7 @@ export const PROJECTS = [
     name: "ProReply",
     tagline: "Thoughtful replies, instantly.",
     description:
-      "A browser extension that helps you respond to email with intelligence and care. ProReply detects open emails, reads their sentiment, references your documents, and generates contextual replies — all with a few clicks.",
+      "A browser extension that helps you respond to email with intelligence and care. ProReply detects open emails, reads their sentiment, references your documents, and generates contextual replies. All with a few clicks.",
     features: [
       "Webmail detection and sentiment analysis",
       "Document-aware replies (RAG)",
@@ -73,14 +73,14 @@ export const PUBLICATIONS = [
   {
     name: "The Builder's Way",
     description:
-      "Exploring the art of building, rebuilding, and becoming — through work, reflection, and the space where change begins.",
+      "Exploring the art of building, rebuilding, and becoming. Through work, reflection, and the space where change begins.",
     url: "https://richardvannatta.substack.com",
     primary: true,
   },
   {
     name: "The Leader's Way",
     description:
-      "Practical wisdom for leaders who build the future — on leadership, growth, and the courage to guide others while still becoming yourself.",
+      "Practical wisdom for leaders who build the future. On leadership, growth, and the courage to guide others while still becoming yourself.",
     url: "https://theleadersway.substack.com",
     primary: false,
   },

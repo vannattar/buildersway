@@ -17,7 +17,7 @@ export function PhilosophyPreview() {
 
         <FadeIn delay={100}>
           <h2 className="mt-4 font-display text-3xl font-semibold leading-tight md:text-5xl">
-            Everything is a work in progress —{" "}
+            Everything is a work in progress.{" "}
             <span className="bg-gradient-to-r from-brand-violet to-brand-teal bg-clip-text text-transparent">
               including you.
             </span>
@@ -29,7 +29,7 @@ export function PhilosophyPreview() {
             <p>
               Your life is not a balance sheet. Your worth is not a net figure to
               be calculated. What matters more than where you are is where
-              you&apos;re going — your trajectory.
+              you&apos;re going. Your trajectory.
             </p>
           </FadeIn>
 
@@ -44,7 +44,7 @@ export function PhilosophyPreview() {
 
           <FadeIn delay={400}>
             <p>
-              Built into this is compassion — for yourself and for others. And at
+              Built into this is compassion, for yourself and for others. And at
               its core, hope: the belief that everything has the ability to
               become. The only thing you can do about tomorrow is plant seeds
               today.

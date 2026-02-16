@@ -21,7 +21,7 @@ export default function WritingPage() {
         </h1>
         <p className="mt-6 max-w-2xl text-lg leading-relaxed text-muted-foreground">
           I write about growth, leadership, creation, and the philosophy of
-          becoming. These publications live on Substack — a space for longer
+          becoming. These publications live on Substack, a space for longer
           thinking and honest reflection.
         </p>
       </FadeIn>
@@ -43,7 +43,7 @@ export default function WritingPage() {
               test ideas, find patterns, and share what I discover along the way.
             </p>
             <p>
-              The Builder&apos;s Way is the core — exploring what it means to
+              The Builder&apos;s Way is the core, exploring what it means to
               build a meaningful life through reflection, discipline, and the
               courage to start again. The Leader&apos;s Way extends that into
               leadership and the responsibility of guiding others while you&apos;re

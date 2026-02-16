@@ -1,11 +1,11 @@
 import Link from "next/link";
-import { Instagram, Twitter, Mail } from "lucide-react";
+import { Instagram, Twitter, PenLine } from "lucide-react";
 import { SITE, SOCIAL_LINKS } from "@/lib/constants";
 
 const iconMap = {
   instagram: Instagram,
   twitter: Twitter,
-  mail: Mail,
+  "pen-line": PenLine,
 } as const;
 
 export function Footer() {

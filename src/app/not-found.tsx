@@ -10,7 +10,7 @@ export default function NotFound() {
         This page is still becoming
       </h1>
       <p className="mt-4 max-w-md text-lg text-muted-foreground">
-        It doesn&apos;t exist yet — but then again, everything is a work in
+        It doesn&apos;t exist yet. But then again, everything is a work in
         progress.
       </p>
       <div className="mt-8">
