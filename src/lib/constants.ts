@@ -74,14 +74,14 @@ export const PUBLICATIONS = [
     name: "The Builder's Way",
     description:
       "Exploring the art of building, rebuilding, and becoming — through work, reflection, and the space where change begins.",
-    url: "https://substack.com/@richardvannatta",
+    url: "https://richardvannatta.substack.com",
     primary: true,
   },
   {
     name: "The Leader's Way",
     description:
-      "On leadership, growth, and the courage to guide others while still becoming yourself.",
-    url: "https://substack.com/@richardvannatta",
+      "Practical wisdom for leaders who build the future — on leadership, growth, and the courage to guide others while still becoming yourself.",
+    url: "https://theleadersway.substack.com",
     primary: false,
   },
 ] as const;

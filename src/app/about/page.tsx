@@ -19,7 +19,7 @@ export default function AboutPage() {
         </p>
         <h1 className="mt-4 font-display text-4xl font-bold leading-tight md:text-5xl">
           Nothing is.{" "}
-          <span className="bg-gradient-to-r from-brand-warm to-brand-teal bg-clip-text text-transparent">
+          <span className="bg-gradient-to-r from-brand-rose via-brand-violet to-brand-teal bg-clip-text text-transparent">
             Everything is becoming.
           </span>
         </h1>

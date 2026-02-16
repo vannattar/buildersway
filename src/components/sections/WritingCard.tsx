@@ -23,7 +23,7 @@ export function WritingCard({
         href={url}
         target="_blank"
         rel="noopener noreferrer"
-        className="group block rounded-2xl border border-border bg-background p-8 transition-all hover:border-accent/30 hover:shadow-lg hover:shadow-accent/5"
+        className="group relative block rounded-2xl border border-border bg-card p-8 transition-all hover:border-accent/40 hover:shadow-xl hover:shadow-accent/10"
       >
         <div className="flex items-start justify-between">
           <h3 className="font-display text-xl font-semibold group-hover:text-accent transition-colors">
