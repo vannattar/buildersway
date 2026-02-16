@@ -29,7 +29,7 @@ export function PhilosophyPreview() {
             <p>
               Your life is not a ledger. Your worth is not a net figure to
               be calculated. The only thing that matters is where you&apos;re
-              going -- your trajectory.
+              going. Your trajectory.
             </p>
           </FadeIn>
 
@@ -44,7 +44,7 @@ export function PhilosophyPreview() {
 
           <FadeIn delay={400}>
             <p>
-              Built into this is compassion -- for yourself and for others. And
+              Built into this is compassion. For yourself and for others. And
               at its core, hope: the quiet belief that everything has the
               ability to become. The only thing you can do about tomorrow is
               plant seeds today.

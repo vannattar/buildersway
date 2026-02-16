@@ -29,15 +29,15 @@ export default function AboutPage() {
         <FadeIn delay={100}>
           <p>
             Everything is a work in progress. You. Your life. Your family.
-            Your career. The person you&apos;re still becoming. All of it --
-            moving, always.
+            Your career. The person you&apos;re still becoming. All of it,
+            moving. Always.
           </p>
         </FadeIn>
 
         <FadeIn delay={200}>
           <p>
             There is no &quot;is&quot; with a period at the end. If it feels
-            like a pause, a plateau, a stopping point -- that&apos;s an
+            like a pause, a plateau, a stopping point? That&apos;s an
             illusion. There are no logical breakpoints in a life. Only
             movement, and what you choose to do with it.
           </p>
@@ -60,7 +60,7 @@ export default function AboutPage() {
             Compassion
           </h2>
           <p className="mt-4">
-            When you look at someone -- at yourself -- you don&apos;t tally
+            When you look at someone, even yourself, you don&apos;t tally
             a ledger and arrive at some net worth of a human being.
             The only thing that matters is where they&apos;re going.
           </p>
@@ -75,7 +75,7 @@ export default function AboutPage() {
             Hope
           </h2>
           <p className="mt-4">
-            At its essence, this is about hope -- the quiet, persistent
+            At its essence, this is about hope. The quiet, persistent
             belief that everything has the ability to become. Not a promise
             that things will be easy. A promise that they can be different.
           </p>
