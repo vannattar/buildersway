@@ -28,18 +28,18 @@ export default function AboutPage() {
       <div className="mt-12 space-y-8 text-lg leading-relaxed text-muted-foreground">
         <FadeIn delay={100}>
           <p>
-            Everything is a work in progress. You. Your life. Your family. Your
-            career. Your success. Your personal growth as a human being. It&apos;s
-            all becoming something. Always.
+            Everything is a work in progress. You. Your life. Your family.
+            Your career. The person you&apos;re still becoming. All of it --
+            moving, always.
           </p>
         </FadeIn>
 
         <FadeIn delay={200}>
           <p>
-            There&apos;s no such thing as &quot;is&quot; with a period at the end.
-            If thinking about something as it <em>is</em> suggests a pause, a
-            plateau, a ledge, some kind of stopping point? That&apos;s an
-            illusion. There are no logical breakpoints in a life. Only movement.
+            There is no &quot;is&quot; with a period at the end. If it feels
+            like a pause, a plateau, a stopping point -- that&apos;s an
+            illusion. There are no logical breakpoints in a life. Only
+            movement, and what you choose to do with it.
           </p>
         </FadeIn>
 
@@ -48,15 +48,10 @@ export default function AboutPage() {
             Trajectory
           </h2>
           <p className="mt-4">
-            You can trace lines from the dots made in the past and create a
-            trajectory into the future. If you don&apos;t like where that line is
-            heading, you can change it. You simply make different choices.
-            Small, tiny, consistent choices.
-          </p>
-          <p className="mt-4">
-            Some choices are small. Some of those small choices lead to bigger
-            ones. But the idea is that you always have the power to change your
-            trajectory.
+            You can trace lines from the dots made in the past and draw a
+            trajectory into the future. If you don&apos;t like where it
+            leads, you change it. You make different choices. You bend the
+            line. The power to redirect your life is always yours.
           </p>
         </FadeIn>
 
@@ -65,13 +60,13 @@ export default function AboutPage() {
             Compassion
           </h2>
           <p className="mt-4">
-            When you look at someone, you don&apos;t assess them and come up
-            with a balance sheet to figure out their net value. That&apos;s less
-            important than where they&apos;re going.
+            When you look at someone -- at yourself -- you don&apos;t tally
+            a ledger and arrive at some net worth of a human being.
+            The only thing that matters is where they&apos;re going.
           </p>
           <p className="mt-4">
-            Built into this philosophy is self-compassion and compassion for
-            others. You stop judging the snapshot and start seeing the story.
+            This is a way of seeing that replaces judgment with curiosity,
+            and the snapshot with the story still being written.
           </p>
         </FadeIn>
 
@@ -80,15 +75,15 @@ export default function AboutPage() {
             Hope
           </h2>
           <p className="mt-4">
-            At its essence, this is about hope. Everything has the ability to
-            become. That message is a message of hope, of possibility.
+            At its essence, this is about hope -- the quiet, persistent
+            belief that everything has the ability to become. Not a promise
+            that things will be easy. A promise that they can be different.
           </p>
           <p className="mt-4">
-            The only thing you can do about tomorrow, today, in this moment,
-            is plant seeds. You have no guarantee they&apos;ll grow. You
-            don&apos;t know how they&apos;ll grow. Often you don&apos;t even
-            recognize what the seed will become. But whatever you plant today
-            defines your tomorrows.
+            The only thing you can do about tomorrow is plant seeds today.
+            You don&apos;t know how they&apos;ll grow. Often you won&apos;t
+            recognize what they become. But whatever you plant now is already
+            shaping what comes next.
           </p>
         </FadeIn>
 
@@ -97,15 +92,16 @@ export default function AboutPage() {
             Letting go
           </h2>
           <p className="mt-4">
-            This way of seeing invites you to loosen the stories you&apos;ve
-            built around yourself. The limitations, the strong preferences, the
-            things you&apos;ve decided are essential parts of who you are. Those
-            stories can make you less resilient, less flexible, less agile, and
-            ultimately less happy.
+            Perhaps the hardest part is loosening the stories you&apos;ve
+            built around yourself. The limitations, the certainties, the things
+            you&apos;ve decided are fixed. Those stories can quietly make you
+            brittle.
           </p>
           <p className="mt-4">
-            It&apos;s not that you abandon them. You soften them. You hold them
-            lightly. And in doing so, you make space for what&apos;s next.
+            You don&apos;t abandon them. You soften them. You hold them
+            lightly, the way you&apos;d hold something you love but
+            don&apos;t need to grip. And in that space, something new
+            becomes possible.
           </p>
         </FadeIn>
       </div>

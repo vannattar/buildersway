@@ -27,9 +27,9 @@ export function PhilosophyPreview() {
         <div className="mt-10 max-w-3xl space-y-6 text-lg leading-relaxed text-muted-foreground">
           <FadeIn delay={200}>
             <p>
-              Your life is not a balance sheet. Your worth is not a net figure to
-              be calculated. What matters more than where you are is where
-              you&apos;re going. Your trajectory.
+              Your life is not a ledger. Your worth is not a net figure to
+              be calculated. The only thing that matters is where you&apos;re
+              going -- your trajectory.
             </p>
           </FadeIn>
 
@@ -37,17 +37,17 @@ export function PhilosophyPreview() {
             <p>
               You can trace lines from the dots made in the past and draw a
               trajectory into the future. If you don&apos;t like where it leads,
-              you change it. Small, consistent choices. Some tiny. Some that lead
-              to bigger ones. But the power is always yours.
+              you change it. You bend the line. The power to redirect is always
+              yours.
             </p>
           </FadeIn>
 
           <FadeIn delay={400}>
             <p>
-              Built into this is compassion, for yourself and for others. And at
-              its core, hope: the belief that everything has the ability to
-              become. The only thing you can do about tomorrow is plant seeds
-              today.
+              Built into this is compassion -- for yourself and for others. And
+              at its core, hope: the quiet belief that everything has the
+              ability to become. The only thing you can do about tomorrow is
+              plant seeds today.
             </p>
           </FadeIn>
         </div>
