@@ -55,7 +55,7 @@ export function Hero() {
 
         <FadeIn delay={150}>
           <h1 className="mt-6 font-display text-5xl font-bold leading-[1.1] tracking-tight md:text-7xl lg:text-8xl">
-            Nothing is.
+            Nothing <em>is</em>.
             <br />
             <span className="bg-gradient-to-r from-brand-rose via-brand-violet to-brand-teal bg-clip-text text-transparent">
               Everything is becoming.
